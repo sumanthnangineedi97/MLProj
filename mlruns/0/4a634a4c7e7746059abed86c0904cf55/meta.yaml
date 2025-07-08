@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4a634a4c7e7746059abed86c0904cf55/artifacts
+end_time: 1752007110856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a634a4c7e7746059abed86c0904cf55
+run_name: carefree-bat-492
+run_uuid: 4a634a4c7e7746059abed86c0904cf55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752007110715
+status: 3
+tags: []
+user_id: sumanth
